@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">Artificial Intelligence and Machine Learning Engineer</h3>
 
-## 🏆 Achievements
-- 🥇 Completed Diagnostic Agent AI project in 1 day
-- 🚀 Built Multi-Agent Dynamic Task Decomposer
-- 📈 Consistently Learning and Building New Projects
+## Who is Vaibhav
+- I am an AI/ML Engineer passionate about crafting intelligent solutions that bridge the gap between technology and human potential.  
+Working on designing, developing, and deploying advanced AI systems — pushing the boundaries of what's possible with Machine Learning.
+- I specialize in building real-world AI agents, multi-agent systems, dynamic task decomposers, and agentic frameworks that solve complex problems across industries.
+
+💡💡 The Idea I Build Around::  
+**Build AI that empowers.**
 
 
 ## 🏆 Achievements
@@ -44,7 +47,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 
-## 🔥 My Latest Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
 
 
