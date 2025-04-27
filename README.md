@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h2 align="center">Artificial Intelligence and Machine Learning Engineer</h2>
 
 ## 🏆 Achievements
 - 🥇 Completed Diagnostic Agent AI project in 1 day
