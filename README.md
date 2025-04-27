@@ -10,7 +10,7 @@ Artificial Intelligence and Machine Learning Engineer
 # 🚀 Tech Stack
 
 
-## **Programming Language**
+#### **Programming Language**
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
