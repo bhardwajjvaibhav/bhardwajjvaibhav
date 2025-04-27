@@ -1,6 +1,6 @@
-                                                            #Hi 👋, I'm Vaibhav
-                                             ## Artificial Intelligence and Machine Learning Engineer
+                                                              # Hi 👋, I'm Vaibhav
 
+                                                  ##Artificial Intelligence and Machine Learning Engineer
 ## 🏆 Achievements
 - 🥇 Completed Diagnostic Agent AI project in 1 day
 - 🚀 Built Multi-Agent Dynamic Task Decomposer
