@@ -42,6 +42,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/thevaibhavbhardwaj/)
+[![Gmail](https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajvaibhav2097@gmail.com)
+
 
 
 
